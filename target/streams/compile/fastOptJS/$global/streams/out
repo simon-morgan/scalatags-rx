@@ -1,0 +1,16 @@
+[0m[[0m[0minfo[0m] [0m[0mFast optimizing /Users/simon/workspace/scalatags-rx/target/scala-2.13/scalatags-rx-fastopt.js[0m
+[0m[[0m[0mdebug[0m] [0m[0mLinker: Compute reachability: 140449 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mLinker: Assemble LinkedClasses: 187335 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mBasic Linking: 338627 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mInc. optimizer: Batch mode: true[0m
+[0m[[0m[0mdebug[0m] [0m[0mInc. optimizer: Incremental part: 52741 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mInc. optimizer: Optimizing 1261 methods.[0m
+[0m[[0m[0mdebug[0m] [0m[0mInc. optimizer: Optimizer part: 212842 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mInc. optimizer: 273415 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mRefiner: Compute reachability: 62267 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mRefiner: Assemble LinkedClasses: 7257 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mRefiner: 71006 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mEmitter: Class tree cache stats: reused: 33 -- invalidated: 40[0m
+[0m[[0m[0mdebug[0m] [0m[0mEmitter: Method tree cache stats: resued: 0 -- invalidated: 95[0m
+[0m[[0m[0mdebug[0m] [0m[0mEmitter (write output): 125911 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mGlobal IR cache stats: reused: 0 -- invalidated: 30 -- trees read: 295[0m

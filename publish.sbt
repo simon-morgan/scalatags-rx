@@ -15,11 +15,13 @@ scmInfo := Some(ScmInfo(
 
 publishMavenStyle := true
 
-publishTo := {
-  val nexus = "https://oss.sonatype.org/"
-  if (isSnapshot.value) Some("snapshots" at nexus + "content/repositories/snapshots")
-  else Some("releases" at nexus + "service/local/staging/deploy/maven2")
-}
+//publishTo := {
+//  val nexus = "https://oss.sonatype.org/"
+//  if (isSnapshot.value) Some("snapshots" at nexus + "content/repositories/snapshots")
+//  else Some("releases" at nexus + "service/local/staging/deploy/maven2")
+//}
+publishTo := Some(
+  "Artifactory Realm" at "http://ec2-54-252-250-124.ap-southeast-2.compute.amazonaws.com:8081/artifactory/sbt-release;build.timestamp=" + new java.util.Date().getTime)
 
 // workaround for sbt/sbt#1834
 pomPostProcess := { (node: XmlNode) =>

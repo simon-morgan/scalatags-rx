@@ -1,0 +1,38 @@
+<component name="ProjectCodeStyleConfiguration">
+  <code_scheme name="Project" version="173">
+    <option name="AUTODETECT_INDENTS" value="false" />
+    <option name="RIGHT_MARGIN" value="100" />
+    <MarkdownNavigatorCodeStyleSettings>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="WRAP_ON_TYPING" value="0" />
+      <option name="PARA_WRAP_TEXT" value="false" />
+      <option name="PARA_CONTINUATION_ALIGNMENT" value="1" />
+      <option name="LIST_ADD_BLANK_LINE_BEFORE" value="true" />
+      <option name="LIST_ALIGN_FIRST_LINE_TEXT" value="true" />
+      <option name="SMART_EDIT_TABLES" value="true" />
+      <option name="TOC_FORMAT_ON_SAVE" value="true" />
+      <option name="RIGHT_MARGIN" value="192" />
+    </MarkdownNavigatorCodeStyleSettings>
+    <ScalaCodeStyleSettings>
+      <option name="classCountToUseImportOnDemand" value="3" />
+      <option name="TYPE_ANNOTATION_PUBLIC_MEMBER" value="false" />
+      <option name="TYPE_ANNOTATION_PROTECTED_MEMBER" value="false" />
+      <option name="TYPE_ANNOTATION_IMPLICIT_MODIFIER" value="false" />
+      <option name="TYPE_ANNOTATION_EXCLUDE_WHEN_TYPE_MATCHES">
+        <set>
+          <option value="japgolly.scalajs.react.component.*" />
+          <option value="sbt.*" />
+          <option value="slick.*" />
+        </set>
+      </option>
+    </ScalaCodeStyleSettings>
+    <editorconfig>
+      <option name="ENABLED" value="false" />
+    </editorconfig>
+    <codeStyleSettings language="Markdown">
+      <indentOptions>
+        <option name="INDENT_SIZE" value="2" />
+      </indentOptions>
+    </codeStyleSettings>
+  </code_scheme>
+</component>

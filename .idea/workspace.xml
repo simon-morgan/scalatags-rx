@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BspLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../aws-hup" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../sjstemp2" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5fce2932-b0be-41b6-843f-0e351e06fb75" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/$CACHE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_github_julien_truffaut_monocle_core_sjs0_6_2_13_2_0_0_RC1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_lihaoyi_scalarx_sjs0_6_2_13_0_4_0_icx_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_lihaoyi_scalatags_sjs0_6_2_13_0_7_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_lihaoyi_sourcecode_sjs0_6_2_13_0_1_7_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_lihaoyi_utest_sjs0_6_2_13_0_7_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_portable_scala_portable_scala_reflect_sjs0_6_2_13_0_1_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_js_scalajs_dom_sjs0_6_2_13_0_9_7_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_js_scalajs_library_2_13_0_6_28_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_js_scalajs_test_interface_2_13_0_6_28_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_modules_scala_collection_compat_sjs0_6_2_13_2_1_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_library_2_13_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_reflect_2_13_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_typelevel_cats_core_sjs0_6_2_13_2_0_0_RC1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_typelevel_cats_free_sjs0_6_2_13_2_0_0_RC1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_typelevel_cats_kernel_sjs0_6_2_13_2_0_0_RC1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_typelevel_cats_macros_sjs0_6_2_13_2_0_0_RC1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/markdown-navigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/scalatags-rx-build.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/scalatags-rx.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/target/config-classes/$5b3bfae70d30b5976c44$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/target/config-classes/$5b3bfae70d30b5976c44.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/target/config-classes/$5b3bfae70d30b5976c44.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/target/config-classes/$78f7042bdc8420b7faa9$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/target/config-classes/$78f7042bdc8420b7faa9.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/target/config-classes/$78f7042bdc8420b7faa9.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/.sbt-compilation-infos/scalatags-rx-compile/.sbt-idea-lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/.sbt-compilation-infos/scalatags-rx-compile/compilation-info-ca566bcf-bf43-4022-ab32-a75013ada0f5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$06ec8cd9821ffd6b810e$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$06ec8cd9821ffd6b810e.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$06ec8cd9821ffd6b810e.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$0df094fc407de200ed20$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$0df094fc407de200ed20.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$0df094fc407de200ed20.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$11f711953f5640469649$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$11f711953f5640469649.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$11f711953f5640469649.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$1e8854edf8be0fe02375$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$1e8854edf8be0fe02375.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$1e8854edf8be0fe02375.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$21d870752d8190f5a8b0$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$21d870752d8190f5a8b0.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$21d870752d8190f5a8b0.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$364d031d3f916c39f39e$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$364d031d3f916c39f39e.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$364d031d3f916c39f39e.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$411536cc69060b6430fa$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$411536cc69060b6430fa.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$411536cc69060b6430fa.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$4f13e7941af52da24dc2$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$4f13e7941af52da24dc2.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$4f13e7941af52da24dc2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$72431bae3168f26e50ec$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$72431bae3168f26e50ec.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$72431bae3168f26e50ec.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$7ff76bd35db6827bd3ff$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$7ff76bd35db6827bd3ff.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$7ff76bd35db6827bd3ff.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$9073396c0dfa26172f38$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$9073396c0dfa26172f38.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$9073396c0dfa26172f38.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$93ac37e6f62b9348dc9f$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$93ac37e6f62b9348dc9f.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$93ac37e6f62b9348dc9f.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$9694d587357ea26c8cf7$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$9694d587357ea26c8cf7.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$9694d587357ea26c8cf7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$9ef5a49d548712e6931f$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$9ef5a49d548712e6931f.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$9ef5a49d548712e6931f.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$a12d1535aee1271686b4$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$a12d1535aee1271686b4.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$a12d1535aee1271686b4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$a28de8d18f0a880c2a32$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$a28de8d18f0a880c2a32.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$a28de8d18f0a880c2a32.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$c064ca7c59b6a7afae97$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$c064ca7c59b6a7afae97.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$c064ca7c59b6a7afae97.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$c1023a0d1e07c2b8d52d$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$c1023a0d1e07c2b8d52d.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$c1023a0d1e07c2b8d52d.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$de99ce0938eeb8691d93$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$de99ce0938eeb8691d93.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$de99ce0938eeb8691d93.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$df6dc6614b8aee60d5a6$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$df6dc6614b8aee60d5a6.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$df6dc6614b8aee60d5a6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$e1f4330247d0b4783397$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$e1f4330247d0b4783397.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$e1f4330247d0b4783397.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$faac35d969cb225c4c92$$anon$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$faac35d969cb225c4c92$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$faac35d969cb225c4c92.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$faac35d969cb225c4c92.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$fc909922034ad3717c9f$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$fc909922034ad3717c9f.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$fc909922034ad3717c9f.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/scalatags-rx-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/scalatags-rx-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scalatags-rx-build-compile-internal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scalatags-rx-build-compile.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scalatags-rx-build-optional.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scalatags-rx-build-plugin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scalatags-rx-build-pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scalatags-rx-build-provided.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scalatags-rx-build-runtime-internal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scalatags-rx-build-runtime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scalatags-rx-build-scala-tool.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scalatags-rx-build-test-internal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scalatags-rx-build-test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/ivy-report.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/ivy-report.xsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/$global/$global/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/input_dsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/$global/ivyConfiguration/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/$global/ivySbt/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/$global/projectDescriptors/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/$global/$global/discoveredMainClasses/data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/compile/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/copy-resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/internalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/unmanagedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/unmanagedJars/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/unmanagedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/unmanagedJars/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/api/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/api/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/api/lib/MaterialIcons-Regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/api/lib/MaterialIcons-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/api/lib/MaterialIcons-Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/api/lib/abstract_type.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/api/lib/annotation.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/api/lib/annotation_comp.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/api/lib/class.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/api/lib/class_comp.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/api/lib/class_diagram.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/api/lib/diagrams.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/api/lib/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/api/lib/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/api/lib/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/api/lib/lato-v11-latin-100.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/api/lib/lato-v11-latin-100.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/api/lib/lato-v11-latin-100.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/api/lib/lato-v11-latin-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/api/lib/lato-v11-latin-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/api/lib/lato-v11-latin-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/api/lib/object.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/api/lib/object_comp.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/api/lib/object_comp_annotation.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/api/lib/object_comp_trait.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/api/lib/object_diagram.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/api/lib/open-sans-v13-latin-400i.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/api/lib/open-sans-v13-latin-400i.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/api/lib/open-sans-v13-latin-400i.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/api/lib/open-sans-v13-latin-700.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/api/lib/open-sans-v13-latin-700.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/api/lib/open-sans-v13-latin-700.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/api/lib/open-sans-v13-latin-700i.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/api/lib/open-sans-v13-latin-700i.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/api/lib/open-sans-v13-latin-700i.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/api/lib/open-sans-v13-latin-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/api/lib/open-sans-v13-latin-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/api/lib/open-sans-v13-latin-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/api/lib/ownderbg2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/api/lib/ownerbg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/api/lib/ownerbg2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/api/lib/package.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/api/lib/print.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/api/lib/ref-index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/api/lib/scheduler.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/api/lib/source-code-pro-v6-latin-700.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/api/lib/source-code-pro-v6-latin-700.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/api/lib/source-code-pro-v6-latin-700.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/api/lib/source-code-pro-v6-latin-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/api/lib/source-code-pro-v6-latin-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/api/lib/source-code-pro-v6-latin-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/api/lib/template.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/api/lib/template.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/api/lib/trait.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/api/lib/trait_comp.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/api/lib/trait_diagram.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/api/lib/type_diagram.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/api/scalatags/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/api/scalatags/rx/RxAttrInstances$RxAttrValue.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/api/scalatags/rx/RxAttrInstances.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/api/scalatags/rx/RxCssNumber.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/api/scalatags/rx/RxDataConverters.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/api/scalatags/rx/RxNodeInstances$bindRxElement.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/api/scalatags/rx/RxNodeInstances$bindRxElements.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/api/scalatags/rx/RxNodeInstances$rxStringFrag.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/api/scalatags/rx/RxNodeInstances.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/api/scalatags/rx/RxStyleInstances$RxGenericPixelStylePx.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/api/scalatags/rx/RxStyleInstances$RxStyleValue.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/api/scalatags/rx/RxStyleInstances.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/api/scalatags/rx/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/api/scalatags/rx/package$$all$.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/classes/JS_DEPENDENCIES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/classes/scalatags/rx/RxAttrInstances$RxAttrValue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/classes/scalatags/rx/RxAttrInstances$RxAttrValue.sjsir" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/classes/scalatags/rx/RxAttrInstances.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/classes/scalatags/rx/RxAttrInstances.sjsir" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/classes/scalatags/rx/RxCssNumber$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/classes/scalatags/rx/RxCssNumber$.sjsir" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/classes/scalatags/rx/RxCssNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/classes/scalatags/rx/RxCssNumber.sjsir" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/classes/scalatags/rx/RxDataConverters.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/classes/scalatags/rx/RxDataConverters.sjsir" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/classes/scalatags/rx/RxNodeInstances$bindRxElement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/classes/scalatags/rx/RxNodeInstances$bindRxElement.sjsir" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/classes/scalatags/rx/RxNodeInstances$bindRxElements.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/classes/scalatags/rx/RxNodeInstances$bindRxElements.sjsir" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/classes/scalatags/rx/RxNodeInstances$rxStringFrag.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/classes/scalatags/rx/RxNodeInstances$rxStringFrag.sjsir" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/classes/scalatags/rx/RxNodeInstances.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/classes/scalatags/rx/RxNodeInstances.sjsir" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/classes/scalatags/rx/RxStyleInstances$$anon$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/classes/scalatags/rx/RxStyleInstances$$anon$1.sjsir" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/classes/scalatags/rx/RxStyleInstances$$anon$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/classes/scalatags/rx/RxStyleInstances$$anon$2.sjsir" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/classes/scalatags/rx/RxStyleInstances$$anon$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/classes/scalatags/rx/RxStyleInstances$$anon$3.sjsir" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/classes/scalatags/rx/RxStyleInstances$$anon$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/classes/scalatags/rx/RxStyleInstances$$anon$4.sjsir" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/classes/scalatags/rx/RxStyleInstances$RxGenericPixelStylePx.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/classes/scalatags/rx/RxStyleInstances$RxGenericPixelStylePx.sjsir" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/classes/scalatags/rx/RxStyleInstances$RxStyleValue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/classes/scalatags/rx/RxStyleInstances$RxStyleValue.sjsir" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/classes/scalatags/rx/RxStyleInstances.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/classes/scalatags/rx/RxStyleInstances.sjsir" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/classes/scalatags/rx/package$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/classes/scalatags/rx/package$.sjsir" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/classes/scalatags/rx/package$all$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/classes/scalatags/rx/package$all$.sjsir" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/classes/scalatags/rx/package.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/com.timushev/scalatags-rx$sources/0.4.1-SNAPSHOT/resolved.xml.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/com.timushev/scalatags-rx$sources/0.4.1-SNAPSHOT/resolved.xml.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/com.timushev/scalatags-rx_sjs0.6_2.13/0.4.1-SNAPSHOT/resolved.xml.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/com.timushev/scalatags-rx_sjs0.6_2.13/0.4.1-SNAPSHOT/resolved.xml.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/org.scala-sbt.temp/temp-module-52f238aede5a1d8d7a484c2bec27a144810e2ac0/1.2.5/resolved.xml.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/org.scala-sbt.temp/temp-module-52f238aede5a1d8d7a484c2bec27a144810e2ac0/1.2.5/resolved.xml.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/com.timushev-scalatags-rx$sources-compile-internal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/com.timushev-scalatags-rx$sources-compile.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/com.timushev-scalatags-rx$sources-optional.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/com.timushev-scalatags-rx$sources-phantom-js-jetty.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/com.timushev-scalatags-rx$sources-plugin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/com.timushev-scalatags-rx$sources-pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/com.timushev-scalatags-rx$sources-provided.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/com.timushev-scalatags-rx$sources-runtime-internal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/com.timushev-scalatags-rx$sources-runtime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/com.timushev-scalatags-rx$sources-scala-tool.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/com.timushev-scalatags-rx$sources-test-internal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/com.timushev-scalatags-rx$sources-test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/com.timushev-scalatags-rx_sjs0.6_2.13-compile-internal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/com.timushev-scalatags-rx_sjs0.6_2.13-compile.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/com.timushev-scalatags-rx_sjs0.6_2.13-optional.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/com.timushev-scalatags-rx_sjs0.6_2.13-phantom-js-jetty.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/com.timushev-scalatags-rx_sjs0.6_2.13-plugin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/com.timushev-scalatags-rx_sjs0.6_2.13-pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/com.timushev-scalatags-rx_sjs0.6_2.13-provided.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/com.timushev-scalatags-rx_sjs0.6_2.13-runtime-internal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/com.timushev-scalatags-rx_sjs0.6_2.13-runtime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/com.timushev-scalatags-rx_sjs0.6_2.13-scala-tool.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/com.timushev-scalatags-rx_sjs0.6_2.13-test-internal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/com.timushev-scalatags-rx_sjs0.6_2.13-test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/ivy-report.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/ivy-report.xsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/org.scala-sbt.temp-temp-module-52f238aede5a1d8d7a484c2bec27a144810e2ac0-compile.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/org.scala-sbt.temp-temp-module-52f238aede5a1d8d7a484c2bec27a144810e2ac0-optional.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/org.scala-sbt.temp-temp-module-52f238aede5a1d8d7a484c2bec27a144810e2ac0-provided.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/org.scala-sbt.temp-temp-module-52f238aede5a1d8d7a484c2bec27a144810e2ac0-runtime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/org.scala-sbt.temp-temp-module-52f238aede5a1d8d7a484c2bec27a144810e2ac0-test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/scalatags-rx-fastopt.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/scalatags-rx-fastopt.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/scalatags-rx-jsdeps.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/scalatags-rx_sjs0.6_2.13-0.4.1-SNAPSHOT-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/scalatags-rx_sjs0.6_2.13-0.4.1-SNAPSHOT-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/scalatags-rx_sjs0.6_2.13-0.4.1-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/scalatags-rx_sjs0.6_2.13-0.4.1-SNAPSHOT.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/$global/$global/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/$global/$global/$global/streams/package-js-deps/in-cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/$global/$global/$global/streams/package-js-deps/out-cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/$global/$global/dumpStructureTo/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/$global/clean/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.13/input_dsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.13/output_dsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/$global/ivySbt/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/$global/makePom/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/$global/projectDescriptors/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/$global/publish/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.13/inputs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.13/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/$global/$global/discoveredMainClasses/data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/$global/$global/sjsirFilesOnClasspath/data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/compile/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.13.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/copyResources/$global/streams/copy-resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/copyResources/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/doc/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/doc/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/doc/$global/streams/scala/inputs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/doc/$global/streams/scala/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/exportedProducts/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/fastOptJS/$global/streams/in-cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/fastOptJS/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/fastOptJS/$global/streams/out-cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/fullClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/internalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/mainClass/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/managedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/packageBin/$global/streams/inputs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/packageBin/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/packageBin/$global/streams/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/packageDoc/$global/streams/inputs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/packageDoc/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/packageDoc/$global/streams/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/packageSrc/$global/streams/inputs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/packageSrc/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/packageSrc/$global/streams/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/unmanagedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/unmanagedJars/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/runtime/managedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/runtime/unmanagedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/runtime/unmanagedJars/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/test/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/test/managedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/test/unmanagedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/test/unmanagedJars/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/build.sbt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/plugins.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/project/plugins.sbt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publish.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/publish.sbt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1SULWn0UY7d5PUeOjfpBuqQ3zho" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.Scalafmt" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="scalatags-rx" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="scalatags-rx [file:/Users/simon/workspace/scalatags-rx/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="scalatags-rx-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/../advanced-scala-code" value="1454359367000" />
+        <entry key="$PROJECT_DIR$/../aws-lambda-scalajs" value="1480293146000" />
+        <entry key="$PROJECT_DIR$/../aws-sdk-scalajs-facade" value="1487127788000" />
+        <entry key="$PROJECT_DIR$/../catses" value="1448505072000" />
+        <entry key="$PROJECT_DIR$/../catsfree" value="1454460727000" />
+        <entry key="$PROJECT_DIR$/../crowd-scala-rest-client" value="4363377468000" />
+        <entry key="$PROJECT_DIR$/../eff" value="1455174423000" />
+        <entry key="$PROJECT_DIR$/../eff-cats" value="1455174975000" />
+        <entry key="$PROJECT_DIR$/../essential-interpreters-code" value="1454361117000" />
+        <entry key="$PROJECT_DIR$/../eventsrc" value="2907694366000" />
+        <entry key="$PROJECT_DIR$/../johndegoesapplicatives" value="1445308572000" />
+        <entry key="$PROJECT_DIR$/../pure-io" value="1445574036000" />
+        <entry key="$PROJECT_DIR$/../scala-aws-lambda-seed" value="1480280534000" />
+        <entry key="$PROJECT_DIR$/../scala-mail" value="1455071571000" />
+        <entry key="$PROJECT_DIR$/../scalajs-spa-tutorial" value="1487026918000" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="2724680147" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1396028727" />
+        <entry key="$PROJECT_DIR$/project/plugins.sbt" value="2297698149" />
+        <entry key="$PROJECT_DIR$/../scalax15-interpreters" value="1454361373000" />
+        <entry key="$PROJECT_DIR$/../sjsl1" value="1487104112000" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../Binding.scala" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../REScala" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../autowire" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../aws4s" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../boopickle" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../cats-tagless" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../core-nodejs" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../diode" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../dueprocess" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../esicx" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../eventsourced" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../free-vs-tagless-final" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../fs2-grpc-example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../infrastructure" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../monix" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../monix-sample" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../monix.io" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../mu" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../nodejs" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../outwatch" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../playingwithcats" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../scala-adapters" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../scala-js" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../scala-js-aws-lambda" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../scala-js-awslambda" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../scala-user-group-feb" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../scala.rx" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../shapeless" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../shapeless-guide" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../sjstemp2" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../slate" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../todo" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../trip_with_monads" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../ui2" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../workbench-example-app" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ScalafmtSettings">
+    <option name="formatOnSave" value="true" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5fce2932-b0be-41b6-843f-0e351e06fb75" name="Default Changelist" comment="" />
+      <created>1571613261597</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571613261597</updated>
+      <workItem from="1571613263026" duration="2271000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1057" height="401" key="GridCell.Tab.0.bottom" timestamp="1571627163926">
+      <screen x="0" y="23" width="2529" height="1417" />
+    </state>
+    <state width="1057" height="401" key="GridCell.Tab.0.bottom/0.23.2529.1417@0.23.2529.1417" timestamp="1571627163926" />
+    <state width="1057" height="401" key="GridCell.Tab.0.center" timestamp="1571627163926">
+      <screen x="0" y="23" width="2529" height="1417" />
+    </state>
+    <state width="1057" height="401" key="GridCell.Tab.0.center/0.23.2529.1417@0.23.2529.1417" timestamp="1571627163926" />
+    <state width="1057" height="401" key="GridCell.Tab.0.left" timestamp="1571627163925">
+      <screen x="0" y="23" width="2529" height="1417" />
+    </state>
+    <state width="1057" height="401" key="GridCell.Tab.0.left/0.23.2529.1417@0.23.2529.1417" timestamp="1571627163925" />
+    <state width="1057" height="401" key="GridCell.Tab.0.right" timestamp="1571627163926">
+      <screen x="0" y="23" width="2529" height="1417" />
+    </state>
+    <state width="1057" height="401" key="GridCell.Tab.0.right/0.23.2529.1417@0.23.2529.1417" timestamp="1571627163926" />
+  </component>
+</project>

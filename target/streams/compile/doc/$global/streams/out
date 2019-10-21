@@ -1,0 +1,16 @@
+[0m[[0m[0minfo[0m] [0m[0mMain Scala API documentation to /Users/simon/workspace/scalatags-rx/target/scala-2.13/api...[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.13:1.2.5:compile for Scala 2.13.1[0m
+[0m[[0m[0mdebug[0m] [0m[0mCalling Scaladoc with arguments:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Xplugin:/Users/simon/.ivy2/cache/org.scala-js/scalajs-compiler_2.13.1/jars/scalajs-compiler_2.13.1-0.6.28.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-d[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/Users/simon/workspace/scalatags-rx/target/scala-2.13/api[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-bootclasspath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/jre/classes:/Users/simon/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.13.1.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-classpath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/Users/simon/.ivy2/cache/org.scala-js/scalajs-library_2.13/jars/scalajs-library_2.13-0.6.28.jar:/Users/simon/.ivy2/cache/com.lihaoyi/scalarx_sjs0.6_2.13/jars/scalarx_sjs0.6_2.13-0.4.0-icx.jar:/Users/simon/.ivy2/cache/com.github.julien-truffaut/monocle-core_sjs0.6_2.13/jars/monocle-core_sjs0.6_2.13-2.0.0-RC1.jar:/Users/simon/.ivy2/cache/org.typelevel/cats-core_sjs0.6_2.13/jars/cats-core_sjs0.6_2.13-2.0.0-RC1.jar:/Users/simon/.ivy2/cache/org.typelevel/cats-macros_sjs0.6_2.13/jars/cats-macros_sjs0.6_2.13-2.0.0-RC1.jar:/Users/simon/.ivy2/cache/org.typelevel/cats-kernel_sjs0.6_2.13/jars/cats-kernel_sjs0.6_2.13-2.0.0-RC1.jar:/Users/simon/.ivy2/cache/org.typelevel/cats-free_sjs0.6_2.13/jars/cats-free_sjs0.6_2.13-2.0.0-RC1.jar:/Users/simon/.ivy2/cache/org.scala-lang.modules/scala-collection-compat_sjs0.6_2.13/jars/scala-collection-compat_sjs0.6_2.13-2.1.2.jar:/Users/simon/.ivy2/cache/com.lihaoyi/scalatags_sjs0.6_2.13/jars/scalatags_sjs0.6_2.13-0.7.0.jar:/Users/simon/.ivy2/cache/com.lihaoyi/sourcecode_sjs0.6_2.13/bundles/sourcecode_sjs0.6_2.13-0.1.7.jar:/Users/simon/.ivy2/cache/org.scala-js/scalajs-dom_sjs0.6_2.13/jars/scalajs-dom_sjs0.6_2.13-0.9.7.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/Users/simon/workspace/scalatags-rx/src/main/scala/scalatags/rx/attributes.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/Users/simon/workspace/scalatags-rx/src/main/scala/scalatags/rx/data.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/Users/simon/workspace/scalatags-rx/src/main/scala/scalatags/rx/nodes.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/Users/simon/workspace/scalatags-rx/src/main/scala/scalatags/rx/package.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/Users/simon/workspace/scalatags-rx/src/main/scala/scalatags/rx/styles.scala[0m
+[0m[[0m[0minfo[0m] [0m[0mMain Scala API documentation successful.[0m
